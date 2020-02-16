@@ -12,8 +12,11 @@ create repositorie with GitHub Pages turned on
 
 ## step 2
 create a reverse_proxy_script.md which has url of latest revision gist  
-###### example :  
-<script src="https://gist.github.com/nkpro2000sr/af9f3eb1346c1dc6a1a8ce78ec78cca1.js"></script>
+###### example : [sample-script.md](https://gist.github.com/nkpro2000sr/af9f3eb1346c1dc6a1a8ce78ec78cca1 "script.md")
+```js
+var url = "latest_gist_url"
+document.write('<script src="'.concat(url,'"></script>'))
+```
 
 ## step 3
 now `<script src="https://UserName.github.io/reverse-proxy-repo/reverse-proxy-script.md"></script>`
