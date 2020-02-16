@@ -1,5 +1,6 @@
 # PERMALINK-for-Gist
-to create permanent link that will forever include all the changes, not just the revision
+to create permanent link that will forever include all the changes, not just the revision  
+[DEMO](https://nkpro2000sr.github.io/PERMALINK-for-Gist/demo.html "demo.html")
 
 ### solution
 this is done by creating <ins>reverse proxy repo</ins>.  
