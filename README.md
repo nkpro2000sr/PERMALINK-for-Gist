@@ -8,7 +8,7 @@ here the permanent url is github-pages url of script.md in repo
 which contains the url of gist (which we can change at anytime).
 
 ## step 1
-create repositorie with GitHub Pages turned on
+create repository with GitHub Pages turned on
 ###### example : [https://github.com/nkpro2000sr/man-manjaro](https://nkpro2000sr.github.io/man-manjaro/ "man-manjaro `blog by manjaro user`")
 
 ## step 2
@@ -24,5 +24,5 @@ now `<script src="https://UserName.github.io/reverse-proxy-repo/reverse-proxy-sc
 is the permanent url. :wink:
 
 ### note
-* you can create many reverse_proxy_scriptn.md for each gists in same repositorie
+* you can create many reverse_proxy_scriptn.md for each gists in same repositories
 * if gist is revised, altering the reverse_proxy_script.md with new url will make permanent url redirecting to latest revision
