@@ -1,4 +1,4 @@
-# PERMALINK-for-Gist
+# Updatable PermaLink
 to create permanent link that will forever include all the changes, and uptodate.  
 
 ### solution
