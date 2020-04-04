@@ -1,6 +1,3 @@
-# Updatable PermaLink
-to create permanent link that will forever include all the changes, and uptodate.  
-
 ### solution
 this is done by creating <ins>Github Repo with GitHub Pages activated</ins>.  
 here the permanent url is github-pages url of content in repo.  
