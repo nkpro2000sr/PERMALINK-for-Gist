@@ -1,9 +1,7 @@
-<a href="SampleImage.png" download>Download Again ?</a>
+<a id="Download" href="SampleImage.png" download>Download Again ?</a>
 
 <script type="text/javascript">
-    $(document).ready(function () {
-
-        $("a").click();
-
-    });
+    (function () {
+      document.getElementById("Download").click();
+    })();
 </script>
